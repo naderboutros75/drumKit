@@ -45,29 +45,3 @@ for (let i = 0; i < numOfDrumButtoms; i++) {
     });
 
 }
-
-
-
-
-// var audio = new Audio("./sounds/tom-1.mp3");
-// audio.play();
-
-
-
-
-// var drums = document.querySelectorAll(".drum");
-// var names = ["crash", "kick", "snare", "tom1", "tom2", "tom3", "tom4"];
-// //Renamed .mp3 files and .png files to have the same corresponding name
-
-// var audio = [];
-
-
-// for (let i = 0; i < drums.length; i++) {
-
-//     drums[i].style.backgroundImage = "url(./images/" + names[i] + ".png)";
-
-//     drums[i].addEventListener("click", function () {
-//         audio[i] = new Audio("./sounds/" + names[i] + ".mp3")
-//         audio[i].play();
-//     });
-// }
